@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>CoronaFence - GridView</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  </head>
+  <style>
+    #divHeat {max-width:300px;max-height: 600px;font-size: 25px; padding: 10px; border:1px dotted silver;background:#f2f2f2}
+  </style>
+
+    <link rel="icon" href="assets/img/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon" />
+</head>
+
+<body>
+    <div class="ui fixed top menu">
+        <a href="#section-one" data-toggle="slide" style='margin-left:20px;margin-top:-10px;' class="logo">
+        </a>
+    </div>
+
+
+    <h3>Thermal cam  <b  id='lastUpdateDate'></b></h3>
+    <div id='divHeat'>Welcome to your heatmap</div>
+
+    <h5  id='lastUpdateTime'></h5>
+    <div id='divColor'></div>
+
+    
+    <script type="text/javascript" src="assets/js/&#95;heat_online.js"></script>
+</body>
+
+</html>

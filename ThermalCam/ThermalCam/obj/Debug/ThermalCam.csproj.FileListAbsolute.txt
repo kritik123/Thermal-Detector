@@ -1,0 +1,13 @@
+E:\sandbox\ThermalCamArduino\ThermalCam\ThermalCam\bin\Debug\ThermalCam.exe.config
+E:\sandbox\ThermalCamArduino\ThermalCam\ThermalCam\bin\Debug\ThermalCam.exe
+E:\sandbox\ThermalCamArduino\ThermalCam\ThermalCam\bin\Debug\ThermalCam.pdb
+E:\sandbox\ThermalCamArduino\ThermalCam\ThermalCam\obj\Debug\ThermalCam.csprojAssemblyReference.cache
+E:\sandbox\ThermalCamArduino\ThermalCam\ThermalCam\obj\Debug\ThermalCam.csproj.CoreCompileInputs.cache
+E:\sandbox\ThermalCamArduino\ThermalCam\ThermalCam\obj\Debug\ThermalCam.exe
+E:\sandbox\ThermalCamArduino\ThermalCam\ThermalCam\obj\Debug\ThermalCam.pdb
+D:\sandbox\ThermalCamArduino\ThermalCam\ThermalCam\bin\Debug\ThermalCam.exe.config
+D:\sandbox\ThermalCamArduino\ThermalCam\ThermalCam\bin\Debug\ThermalCam.exe
+D:\sandbox\ThermalCamArduino\ThermalCam\ThermalCam\bin\Debug\ThermalCam.pdb
+D:\sandbox\ThermalCamArduino\ThermalCam\ThermalCam\obj\Debug\ThermalCam.csprojAssemblyReference.cache
+D:\sandbox\ThermalCamArduino\ThermalCam\ThermalCam\obj\Debug\ThermalCam.exe
+D:\sandbox\ThermalCamArduino\ThermalCam\ThermalCam\obj\Debug\ThermalCam.pdb

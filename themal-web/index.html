@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Queck.me - Quarantine Profile</title>
+  <meta name="viewport"
+    content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta charset="utf-8">
+  <link href="assets/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+  <script type="text/javascript" src="assets/js/jquery-3.3.1.min.js"></script>
+  <script type="text/javascript" src="assets/js/jquery-qrcode.min.js"></script>
+  <script type='text/javascript'
+    src='https://www.bing.com/api/maps/mapcontrol?key=Agi3k7VJWhUOiTKJDgISAoItzSuKbsHBmqjwBcOiVwN1ua1lo6hoyYdtfRIFVlhV&callback=loadMapScenario'
+    async defer></script>
+
+
+  <script src="assets/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="assets/css/main.css">
+
+
+
+  <link rel="apple-touch-icon" href="apple-icon-60x60.png">
+  <link rel="icon" type="image/png" href="favicon.png">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+</head>
+<style>
+  #divHeat {
+    max-width: 380px;
+    height: 250px;
+    font-size: 25px;
+    font-weight: bolder;
+    padding: 10px;
+    border: 1px solid #fff;
+    margin-left: 0px;
+  }
+</style>
+
+<body>
+  <script async defer crossorigin="anonymous"
+    src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v6.0&appId=136356053093832&autoLogAppEvents=1"></script>
+
+
+
+  <div class="container portfolio">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="heading">
+
+          <nav class="navbar navbar-expand-lg navbar-light bg-light ml-auto">
+            <a class="navbar-brand" href="#"> <img src="images/logo.jpg" /></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse flex-grow-0" id="navbarSupportedContent">
+              <ul class="navbar-nav text-right">
+                <li class="nav-item active">
+                  <a class="nav-item nav-link" href="#" data-toggle="modal" data-target="#ModalAbout">About this</a>
+                </li>
+                <li class="nav-item active"> <a class="nav-item nav-link" target="_blank"
+                    href="https://coronadatascraper.com/#features.json">C-19
+                    Map</a>
+                </li>
+                <li class="nav-item active">
+                  <a class="nav-item nav-link" target="_blank"
+                    href="https://github.com/dasdata/coronafence/tree/master/themal-web">Source Code</a>
+                </li>
+                <li class="nav-item active"> <a class="nav-item nav-link" target="_blank"
+                    href="https://www.hackster.io/dasdata/corofence-thermal-detector-f4436f">Hardware</a>
+                </li>
+                <li class="nav-item active"> <a class="nav-item nav-link" target="_blank"
+                    href=" https://mariusdima.typeform.com/to/vlbwfC">Feedback</a>
+                </li>
+
+
+                <li class="nav-item active"> <a class="nav-item nav-link" href="#" data-toggle="modal"
+                    data-target="#ModalContact">Contact</a>
+                </li>
+              </ul>
+            </div>
+          </nav>
+
+        </div>
+
+      </div>
+    </div>
+
+
+    <div class="social-box">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-4 col-xs-12 text-center">
+            <div class="box">
+              <img class="img-fluid img-thumbnail" src="images/profile/dfk.png" id="profile-image1">
+              <div class="box-title">
+                <h3>Albert A. Shepherd</h3>
+                <h4>42y, Germany</h4>
+              </div>
+              <div class="box-text">
+                <p class="card-text">
+                  <button class="btn btn-warning btn-flat" id="myDistanceLocator" style="cursor: pointer;" data-toggle="modal"
+                    data-target="#ModalGeoFence">
+                    GeoFence
+                  </button>
+                  <button class="btn btn-light btn-flat" href="#" data-toggle="modal" data-target="#ModalComment">Send
+                    Message</button>
+                </p>
+              </div>
+              <div class="box-btn">
+
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-xs-12 text-center">
+            <div class="box">
+              <i class="fa fa-facebook fa-3x" aria-hidden="true"></i>
+              <div class="box-title">
+                <b class="display-4">QRantaine</b>
+              </div>
+              <div class="box-text">
+                <span>
+                  <div id="myQRCode"></div>
+                </span>
+              </div>
+              <div class="box-btn">
+                <a target="_blank" class="btn btn-flat"
+                  href="https://dasdata.co/?das=GnlPTmXtNF9WFf10JlFYilmbyer6bFUgZfXzQ7J9QDU9s5uT4POeUunKabsLDTIKxsphZ8NhLm4TUw8O2/fXAQ==">Data
+                  Stream</a>
+                <a target="_blank" class="btn btn-flat"
+                  href=" https://dasdata.co/e.aspx?das=GnlPTmXtNF9WFf10JlFYilmbyer6bFUgZfXzQ7J9QDU9s5uT4POeUunKabsLDTIKxsphZ8NhLm4TUw8O2/fXAQ==&from=0&to=200&json=1">JSON</a>
+                <a target="_blank" class="btn btn-flat"
+                  href=" https://dasdata.co/e.aspx?das=GnlPTmXtNF9WFf10JlFYilmbyer6bFUgZfXzQ7J9QDU9s5uT4POeUunKabsLDTIKxsphZ8NhLm4TUw8O2/fXAQ==&from=0&to=200&xml=1">XML</a>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="col-lg-4 col-xs-12  text-center">
+            <div class="box">
+              <i class="fa fa-twitter fa-3x" aria-hidden="true"></i>
+              <div class="box-title">
+                <b class="display-4">Heatmap</b>
+              </div>
+              <div class="box-text">
+                <p>
+                  <div style='padding:10px;' id='divHeat'>Welcome to your heatmap</div>
+                  <br> Latest Room Screaning: <br> <b class="display-5"><span id="topValue"></span>'C </b> @ <i
+                    id='lastUpdateDate'></i> CET
+                </p>
+              </div>
+              <div class="box-btn">
+
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+
+  </div>
+
+  <div class="jumbotron jumbotron-fluid" id="distanceCalculator" style="visibility: none;border: 2px dotted #f4f4f4;">
+    <div class="container">
+      <button id="btnHideDistance" class="btn btn-light float-right btn-flat"
+        style=" position: relative;margin-top:-80px;">Hide</button>
+
+      <div id='myMapX' style='width:100%; height: 450px;'></div>
+
+
+    </div>
+  </div>
+
+  <!-- Modal GeoFence -->
+  <div class="modal fade" id="ModalGeoFence" tabindex="-1" role="dialog" aria-labelledby="GeoFenceModalCenterTitle"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content" style="width: 640px;">
+        <div class="modal-header">
+          <h5 class="modal-title" id="GeoFenceLongTitle">Geofence</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <div class="container">
+
+            <div id='myMap' style='width:100%; height: 450px;'></div>
+
+
+          </div>
+        </div>
+        <div class="modal-footer" >
+         
+          <!-- Material unchecked -->
+          <div class="form-check">
+            <input type="checkbox" class="form-check-input" id="materialUnchecked">
+            <label class="form-check-label" for="materialUnchecked">Alarm </label>
+          </div>
+          <button type="button" class="btn btn-light btn-flat" data-dismiss="modal">Save</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="jumbotron jumbotron-fluid">
+    <div class="container text-center">
+
+      <h3 class="display-2">Time Spent in Quarantine</h3>
+
+
+      <p class="lead">
+        <h1 class="display-5">
+          <div class="countup" id="countup1">
+            <span class="timeel days">00</span>
+            <span class="timeel timeRefDays">days</span>
+            <span class="timeel hours">00</span>
+            <span class="timeel timeRefHours">hours</span>
+            <span class="timeel minutes">00</span>
+            <span class="timeel timeRefMinutes">minutes</span>
+            <span class="timeel seconds">00</span>
+            <span class="timeel timeRefSeconds">seconds</span>
+          </div>
+        </h1>
+
+      </p>
+    </div>
+  </div>
+
+
+  <div class="social-box">
+    <div class="container">
+      <div class="row">
+
+        <div class="col-lg-4 col-xs-12 text-center">
+          <div class="box">
+            <i class="fa fa-pinterest-p fa-3x" aria-hidden="true"></i>
+            <div class="box-title">
+              <h2>Queck.me</h2>
+            </div>
+            <div class="box-text text-justify">
+              <span><b>Queck</b> it's short from <b>Qu</b>aratine Ch<b>eck</b>. While half of the world population
+                is in
+                quarantine,
+                one of the main symptoms of the coronavirus is a high fever, you should monitor often temperature
+                values. This project is open source and part of the <b>COVID-19 Global Hackathon 1.0</b>
+              </span>
+            </div>
+            <div class="box-btn">
+              <a href="https://devpost.com/software/corofence-show-me-your-quarantine" target="_blank"
+                class="btn btn-light">Learn More</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-xs-12 text-center">
+          <div class="box">
+            <i class="fa fa-google-plus fa-3x" aria-hidden="true"></i>
+            <div class="box-title">
+              <h3>Temperature Analytics </h3>
+            </div>
+            <div class="box-text  text-justify">
+              <span> Everytime movement is detected in the <a
+                  href="https://www.hackster.io/dasdata/corofence-thermal-detector-f4436f" target="_blank">thermal
+                  camera</a>, temperature data will automatically stored and shared online in your Quarantine
+                profile.
+                As you get more closer to the device, the thermal sensor will be able to estimate the temperature
+                from
+                your face or other body part. </span>
+              <br> </div>
+            <div class="box-btn">
+              <a href="https://dasdata.co/?das=GnlPTmXtNF9WFf10JlFYilmbyer6bFUgZfXzQ7J9QDU9s5uT4POeUunKabsLDTIKxsphZ8NhLm4TUw8O2/fXAQ=="
+                class="btn btn-light">Data feed</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-xs-12 text-center">
+          <div class="box">
+            <i class="fa fa-github fa-3x" aria-hidden="true"></i>
+            <div class="box-title">
+              <h3>Build your Profile</h3>
+            </div>
+            <div class="box-text  text-justify">
+              <span> Alternatively you can share with your friends and family as well in order to restore
+                trust.Start
+                building your customized Quarantine Profile Page using sample code published at <a
+                  href="https://github.com/dasdata/coronafence/tree/master/themal-web">GitHub</a>. This web page and
+                <a href="https://www.hackster.io/dasdata/corofence-thermal-detector-f4436f" target="_blank">thermal
+                  camera</a> code is available as open source. </span>
+              <br> </div>
+            <div class="box-btn">
+              <a href="https://github.com/dasdata/coronafence/tree/master/themal-web" class="btn btn-light">Get
+                code</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="jumbotron jumbotron-fluid">
+    <div class="container text-center">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/_C7R2Bg0suk" frameborder="0"
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+  </div>
+
+
+  <div class="jumbotron jumbotron-fluid" style="background-image: url('images/queck-favicon.png');min-height: 700px;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 50% 50%;">
+    <div class="container text-center" style=" background: rgba(255, 255, 255, 0.85); ">
+      <h2 class="display-3">Quarantine vs Isolation vs Social Distancing </h2>
+      <p class="text-justify">Quarantine and Isolation are public health practices used to protect the public by
+        preventing exposure to people who have or may have a contagious disease. </p>
+      <p class="text-justify">
+        Isolation separates sick people with a contagious disease from people who are not sick.
+        Quarantine separates and restricts the movement of people who were exposed to a contagious disease to see if
+        they become sick. These people may have been exposed to a disease and do not know it, or they may have the
+        disease but do not show symptoms. </p>
+      <p class="text-justify">
+        Self-quarantine or isolation restricts the movement of people within a certain area or zone to limit
+        transferring
+        and spreading infection.
+
+        To be more specific, isolation refers to separating sick people from people who aren’t sick, while
+        self-quarantine refers to the separation and restriction of movement of people who were exposed to the virus to
+        see if they
+        become sick. On the other hand, social distancing has no locational constraints; rather it is a behavioural
+        practice to
+        lower the risk. <a
+          href="https://worldwide.saraya.com/about/news/item/frequently-asked-questions-and-myth-busters-on-covid-19#question4"
+          target="_blank">[Source]</a> <br><br><br></p>
+
+      <!--    -->
+
+    </div>
+  </div>
+
+  <div class="cui-embed" data-cui-uid="vlbwfC" data-cui-mode="pill" data-cui-pill-button-color="#FFAD0B"></div>
+  <script src="https://public-assets.typeform.com/confab/embed.js" async></script>
+
+
+  <!-- Modal About -->
+  <div class="modal fade" id="ModalAbout" tabindex="-1" role="article" aria-labelledby="aboutModalCenterTitle"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="AboutModalLongTitle">About Queck</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <p>Queck (Quarantine Check) was developed on the <a href="http://dasdata.co">DasData</a> free storage
+            account
+            by <a target="_blank" href="https://www.linkedin.com/in/marius-dima/">Marius
+              Dima</a> with the valuable support from <a target="_blank"
+              href="https://www.linkedin.com/in/melissa-deng-14738046/" target="_blank">Melissa Deng</a>.
+            <br> <br>
+            Queck is open sourced and was submited as part of COVID-19 Global Hackathon in 30th March 2020. </p>
+
+          <p>The <a href="https://covid-global-hackathon.devpost.com/"> COVID-19 Global Hackathon </a> is an opportunity
+            for developers to build software solutions that drive
+            social impact,
+            with the aim of tackling some of the challenges related to the current coronavirus (COVID-19) pandemic.
+          </p>
+          <p> Note that the User Profile Name/ Picture Sample was randomly <a
+              href="https://www.thispersondoesnotexist.com/" target="_blank"> imagined by a GAN </a>. </p>
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+  <!-- Modal Contact -->
+  <div class="modal fade" id="ModalContact" tabindex="-1" role="dialog" aria-labelledby="ContactModalCenterTitle"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="ContactModalLongTitle">Contact</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h2>Please send email to md@dasdata.co</h2>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal Comment -->
+  <div class="modal fade" id="ModalComment" tabindex="-1" role="dialog" aria-labelledby="CommentModalCenterTitle"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="ContactModalLongTitle">Comment</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body" style="height: 500px; ">
+          <div class="fb-share-button float-right" data-href="http://queck.me" data-layout="button" data-size="small"><a
+              target="_blank"
+              href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fqueck.me%2F&amp;src=sdkpreparse"
+              class="fb-xfbml-parse-ignore">Share</a></div>
+
+          <div id="fb-root"></div>
+          <div style="height: 500px; width: 650px;" class="fb-comments" data-href="http://www.queck.me" data-width="480"
+            data-numposts="5"></div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+
+
+  <footer class="footer">
+    <div class="container">
+      <span class="text-muted" style="font-size: 11px;"><b>Queck</b> was quicky prototyped on <a target="_blank"
+          href="https://dasdata.co/">DasData</a> free storage. </span>
+      <span style="font-size: 11px;">© 2020- Marius Dima - all rights reserved</span>
+      <a target="_blank" style="font-size: 11px;" href=" https://mariusdima.typeform.com/to/vlbwfC">Feedback</a>
+    </div>
+  </footer>
+
+  <script type="text/javascript" src="assets/&#95;heat_online.js"></script>
+
+</body>
+
+</html>

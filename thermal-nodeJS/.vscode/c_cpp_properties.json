@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\dimamri\\Documents\\Arduino\\libraries\\SparkFun_GridEYE_AMG88_Library\\src",
+                "C:\\Users\\dimamri\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\**",
+                "C:\\Users\\dimamri\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\samd\\1.6.19\\**"
+            ],
+            "forcedInclude": [
+                "C:\\Users\\dimamri\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\samd\\1.6.19\\cores\\arduino\\Arduino.h"
+            ],
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}

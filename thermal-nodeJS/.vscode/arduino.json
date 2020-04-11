@@ -1,0 +1,5 @@
+{
+    "board": "arduino:samd:mkr1000",
+    "port": "COM11",
+    "sketch": "getheatMapSocket\\getheatMapSocket.ino"
+}

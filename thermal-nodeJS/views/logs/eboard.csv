@@ -1,0 +1,1088 @@
+27-03-2020 08:49:02 Motion detected!
+
+27-03-2020 08:49:02 
+Starting connection to server...
+
+27-03-2020 08:49:05 connected to server
+
+27-03-2020 08:49:05 GET /i.aspx?d=24.50|25.00|24.50|24.50|24.50|23.25|23.00|22.00|24.50|25.50|25.25|25.00|24.50|23.00|23.00|22.00|25.25|25.75|25.50|24.75|23.75|24.00|22.75|23.00|25.50|25.75|25.50|24.75|25.00|25.00|23.50|22.75|26.00|26.50|28.00|27.75|26.00|24.75|23.75|22.25|25.75|27.50|28.25|28.25|25.75|24.00|23.50|23.50|25.50|27.00|27.00|26.25|24.50|23.75|23.25|22.75|24.50|25.25|25.25|27.25|24.75|24.00|24.50|24.25|&s=b94b43c6-07cb-402e-a4a0-9a396fa4b6fd&a=e6406124450447f3985756625ee13d HTTP/1.1
+Host: dasdata.co
+
+
+
+24.50,25.00,24.50,24.50,24.50,23.25,23.00,22.00,24.50,25.50,25.25,25.00,24.50,23.00,23.00,22.00,25.25,25.75,25.50,24.75,23.75,24.00,22.75,23.00,25.50,25.75,25.50,24.75,25.00,25.00,23.50,22.75,26.00,26.50,28.00,27.75,26.00,24.75,23.75,22.25,25.75,27.50,28.25,28.25,25.75,24.00,23.50,23.50,25.50,27.00,27.00,26.25,24.50,23.75,23.25,22.75,24.50,25.25,25.25,27.25,24.75,24.00,24.50,24.25,
+
+27-03-2020 08:49:07 HTTP
+27-03-2020 08:49:07 /1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/10.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Access-Control-Allow-Origin: *
+Date: Fri, 27 Mar 2020 07:49:03 GMT
+Content-Length: 10
+
+3765586 OkHTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Fri, 27 Mar 2020 07:49:03 GMT
+Connection:
+27-03-2020 08:49:07  close
+Content-Length: 326
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+Motion ended!
+
+27-03-2020 08:49:17 Motion detected!
+
+27-03-2020 08:49:17 
+Starting connection to server...
+
+27-03-2020 08:49:21 connected to server
+
+27-03-2020 08:49:21 GET /i.aspx?d=22.50|23.50|23.75|24.25|22.00|22.50|21.50|21.00|23.50|24.25|24.75|25.00|24.00|23.00|23.25|22.75|24.75|24.50|24.50|24.50|24.25|24.00|23.00|22.75|25.50|25.25|25.50|25.25|26.25|24.00|23.25|23.50|27.75|27.75|26.00|26.75|26.50|24.50|23.75|22.50|28.50|26.75|26.00|26.50|26.00|25.75|24.00|23.25|28.00|26.50|27.00|27.25|27.00|26.75|24.25|23.75|25.00|25.75|25.25|27.25|26.75|25.25|24.50|24.50|&s=b94b43c6-07cb-402e-a4a0-9a396fa4b6fd&a=e6406124450447f3985756625ee13d HTTP/1.1
+Host: dasdata.co
+
+
+
+22.50,23.50,23.75,24.25,22.00,22.50,21.50,21.00,23.50,24.25,24.75,25.00,24.00,23.00,23.25,22.75,24.75,24.50,24.50,24.50,24.25,24.00,23.00,22.75,25.50,25.25,25.50,25.25,26.25,24.00,23.25,23.50,27.75,27.75,26.00,26.75,26.50,24.50,23.75,22.50,28.50,26.75,26.00,26.50,26.00,25.75,24.00,23.25,28.00,26.50,27.00,27.25,27.00,26.75,24.25,23.75,25.00,25.75,25.25,27.25,26.75,25.25,24.50,24.50,
+
+27-03-2020 08:49:22 HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/10.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Access-Control-Allow-Origin: *
+Date: Fri, 27 Mar 2020 07:49:18 GMT
+Content-Length: 10
+
+3765587 OkHTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Fri, 27 Mar 2020 07:49:18 GMT
+Connection: close
+Content-Length: 326
+
+<!DOCT
+27-03-2020 08:49:22 YPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+Motion ended!
+
+27-03-2020 08:49:25 Motion detected!
+
+27-03-2020 08:49:25 
+Starting connection to server...
+
+27-03-2020 08:49:29 connected to server
+
+27-03-2020 08:49:29 GET /i.aspx?d=22.50|23.50|23.25|23.25|22.25|22.25|21.50|20.00|22.75|24.00|24.25|23.75|23.75|23.00|22.50|22.00|24.50|24.75|25.25|25.00|24.50|23.50|23.25|22.75|25.25|25.75|26.00|25.75|25.25|23.75|23.25|22.75|25.00|25.75|25.75|25.00|24.25|23.50|23.25|23.00|26.00|25.00|25.50|26.00|25.25|24.75|23.75|23.25|26.75|25.50|26.25|27.00|27.00|26.00|23.75|23.75|25.00|25.50|25.25|27.75|27.75|25.50|24.50|24.50|&s=b94b43c6-07cb-402e-a4a0-9a396fa4b6fd&a=e6406124450447f3985756625ee13d HTTP/1.1
+Host: dasdata.co
+
+
+
+22.50,23.50,23.25,23.25,22.25,22.25,21.50,20.00,22.75,24.00,24.25,23.75,23.75,23.00,22.50,22.00,24.50,24.75,25.25,25.00,24.50,23.50,23.25,22.75,25.25,25.75,26.00,25.75,25.25,23.75,23.25,22.75,25.00,25.75,25.75,25.00,24.25,23.50,23.25,23.00,26.00,25.00,25.50,26.00,25.25,24.75,23.75,23.25,26.75,25.50,26.25,27.00,27.00,26.00,23.75,23.75,25.00,25.50,25.25,27.75,27.75,25.50,24.50,24.50,
+
+27-03-2020 08:49:30 HTT
+27-03-2020 08:49:30 P/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/10.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Access-Control-Allow-Origin: *
+Date: Fri, 27 Mar 2
+27-03-2020 08:49:30 020 07:49:27 GMT
+Content-Length: 10
+
+3765588 OkHTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Fri, 27 Mar 2020 07:49:27 GMT
+Connection: clos
+27-03-2020 08:49:30 e
+Content-Length: 326
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii
+27-03-2020 08:49:30 "></HEAD>
+<BODY><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+
+27-03-2020 08:49:31 Motion ended!
+
+27-03-2020 08:49:31 Motion detected!
+
+27-03-2020 08:49:31 
+Starting connection to server...
+27-03-2020 08:49:31 
+
+27-03-2020 08:49:35 connected to server
+
+27-03-2020 08:49:35 GET /i.aspx?d=22.75|23.25|23.00|24.75|23.25|24.50|25.00|25.25|24.25|23.25|26.00|27.25|26.25|25.75|26.00|26.25|27.50|26.25|26.00|25.00|25.50|26.50|25.50|26.00|25.25|25.75|25.50|25.50|25.50|24.25|23.75|24.00|23.50|25.25|25.00|25.50|25.00|24.00|23.25|22.00|23.75|23.75|24.00|24.00|24.00|23.00|23.00|23.00|24.00|24.00|24.00|24.00|22.75|23.00|23.25|23.00|22.75|24.50|23.50|23.75|23.75|24.25|23.25|24.00|&s=b94b43c6-07cb-402e-a4a0-9a396fa4b6fd&a=e6406124450447f3985756625ee13d HTTP/1.1
+Host: dasdata.co
+
+
+
+22.75,23.25,23.00,24.75,23.25,24.50,25.00,25.25,24.25,23.25,26.00,27.25,26.25,25.75,26.00,26.25,27.50,26.25,26.00,25.00,25.50,26.50,25.50,26.00,25.25,25.75,25.50,25.50,25.50,24.25,23.75,24.00,23.50,25.25,25.00,25.50,25.00,24.00,23.25,22.00,23.75,23.75,24.00,24.00,24.00,23.00,23.00,23.00,24.00,24.00,24.00,24.00,22.75,23.00,23.25,23.00,22.75,24.50,23.50,23.75,23.75,24.25,23.25,24.00,
+
+27-03-2020 08:49:36 HTTP/
+27-03-2020 08:49:36 1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/10.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Access-Control-Allow-Origin: *
+Date: Fri, 27 Mar 2020 07:49:33 GMT
+Content-Length: 10
+
+3765589
+27-03-2020 08:49:36  OkHTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Fri, 27 Mar 2020 07:49:33 GMT
+Connection: close
+Content-Length: 
+27-03-2020 08:49:36 326
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="te
+27-03-2020 08:49:36 xt/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+
+27-03-2020 08:49:37 Motion ended!
+
+27-03-2020 08:49:38 Motion detected!
+
+27-03-2020 08:49:38 
+Starting connection to server...
+
+27-03-2020 08:49:42 connected to server
+
+27-03-2020 08:49:42 GET /i.aspx?d=26.00|25.50|24.75|25.50|25.50|26.50|25.00|22.75|23.50|25.25|25.50|25.50|24.25|23.50|23.25|21.75|22.25|24.50|24.75|25.00|23.50|22.50|21.75|21.25|23.25|23.00|23.50|23.00|22.25|22.00|21.25|21.25|22.00|23.25|22.75|22.75|21.75|21.00|21.50|21.25|23.50|23.25|23.50|23.25|21.75|21.50|22.25|22.00|23.25|23.25|23.50|23.50|22.50|22.00|22.75|22.50|23.25|24.00|24.00|23.50|23.50|24.25|24.00|24.00|&s=b94b43c6-07cb-402e-a4a0-9a396fa4b6fd&a=e6406124450447f3985756625ee13d HTTP/1.1
+Host: dasdata.co
+
+
+
+26.00,25.50,24.75,25.50,25.50,26.50,25.00,22.75,23.50,25.25,25.50,25.50,24.25,23.50,23.25,21.75,22.25,24.50,24.75,25.00,23.50,22.50,21.75,21.25,23.25,23.00,23.50,23.00,22.25,22.00,21.25,21.25,22.00,23.25,22.75,22.75,21.75,21.00,21.50,21.25,23.50,23.25,23.50,23.25,21.75,21.50,22.25,22.00,23.25,23.25,23.50,23.50,22.50,22.00,22.75,22.50,23.25,24.00,24.00,23.50,23.50,24.25,24.00,24.00,
+
+27-03-2020 08:49:43 HTTP/1.1 2
+27-03-2020 08:49:43 00 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/10.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Access-Control-Allow-Origin: *
+Date: Fri, 27 Mar 2020 07:49:41 GMT
+Content-Length: 10
+
+3765590 OkHTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Fri, 27 Ma
+27-03-2020 08:49:44 r 2020 07:49:41 GMT
+Connection: close
+Content-Length: 326
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+27-03-2020 08:49:44 
+Motion ended!
+
+27-03-2020 08:49:44 Motion detected!
+
+27-03-2020 08:49:44 
+Starting connection to server...
+
+27-03-2020 08:49:47 connected to server
+
+27-03-2020 08:49:48 GET /i.aspx?d=22.25|22.25|22.25|23.00|22.00|22.00|21.25|20.25|22.00|23.25|23.25|23.75|22.75|22.50|22.00|21.75|23.25|24.00|24.50|24.50|24.25|23.00|22.25|22.25|24.50|24.75|25.00|25.25|24.50|23.50|23.50|23.25|27.75|25.75|25.25|25.25|24.50|23.00|24.00|23.25|27.50|24.75|25.00|24.75|24.50|23.25|23.50|23.25|24.25|24.25|24.50|25.25|24.75|23.50|23.00|22.75|24.00|25.00|24.75|27.00|26.50|24.50|24.25|24.00|&s=b94b43c6-07cb-402e-a4a0-9a396fa4b6fd&a=e6406124450447f3985756625ee13d HTTP/1.1
+Host: dasdata.co
+
+
+
+22.25,22.25,22.25,23.00,22.00,22.00,21.25,20.25,22.00,23.25,23.25,23.75,22.75,22.50,22.00,21.75,23.25,24.00,24.50,24.50,24.25,23.00,22.25,22.25,24.50,24.75,25.00,25.25,24.50,23.50,23.50,23.25,27.75,25.75,25.25,25.25,24.50,23.00,24.00,23.25,27.50,24.75,25.00,24.75,24.50,23.25,23.50,23.25,24.25,24.25,24.50,25.25,24.75,23.50,23.00,22.75,24.00,25.00,24.75,27.00,26.50,24.50,24.25,24.00,
+
+27-03-2020 08:49:49 HTT
+27-03-2020 08:49:49 P/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/10.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Access-Control-Allow-Origin: *
+Date: Fri, 27 Mar 2020 07:49:45 GMT
+Content-Length: 10
+
+3765591 OkHTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Fri, 27 Mar 2020 07:49:45 GMT
+Connection: close
+Content-Length: 326
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+
+27-03-2020 08:49:50 Motion ended!
+
+27-03-2020 08:49:53 Motion detected!
+
+27-03-2020 08:49:53 
+Starting connection to server...
+
+27-03-2020 08:49:57 connected to server
+
+27-03-2020 08:49:57 GET /i.aspx?d=22.25|23.00|23.00|24.00|21.75|22.00|20.75|20.25|22.25|24.25|24.25|24.75|23.25|22.75|22.00|21.75|23.25|25.00|25.25|24.50|24.00|23.00|22.25|22.25|25.50|25.25|25.00|24.50|24.75|23.75|23.00|24.00|28.00|26.25|26.50|25.75|24.00|23.00|24.50|22.50|26.50|24.50|25.25|26.75|23.25|23.00|22.50|22.75|24.25|24.25|24.50|25.00|23.75|23.50|23.25|23.00|23.75|24.50|24.25|24.25|24.50|24.25|23.75|24.00|&s=b94b43c6-07cb-402e-a4a0-9a396fa4b6fd&a=e6406124450447f3985756625ee13d HTTP/1.1
+Host: dasdata.co
+
+
+
+22.25,23.00,23.00,24.00,21.75,22.00,20.75,20.25,22.25,24.25,24.25,24.75,23.25,22.75,22.00,21.75,23.25,25.00,25.25,24.50,24.00,23.00,22.25,22.25,25.50,25.25,25.00,24.50,24.75,23.75,23.00,24.00,28.00,26.25,26.50,25.75,24.00,23.00,24.50,22.50,26.50,24.50,25.25,26.75,23.25,23.00,22.50,22.75,24.25,24.25,24.50,25.00,23.75,23.50,23.25,23.00,23.75,24.50,24.25,24.25,24.50,24.25,23.75,24.00,
+
+27-03-2020 08:49:58 HTTP/1.1 20
+27-03-2020 08:49:58 0 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/10.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Access-Control-Allow-Origin: *
+Date: Fri, 27 Mar 2020 07:49:55 GMT
+Content-Length: 10
+
+3765592 OkHTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Fri, 27 Mar 2020 07:49:55 GMT
+Connection: close
+Content-Length: 326
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Conten
+27-03-2020 08:49:58 t-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+
+27-03-2020 08:49:59 Motion ended!
+
+27-03-2020 08:49:59 Motion detected!
+
+27-03-2020 08:50:00 
+Starting connection to server...
+
+27-03-2020 08:50:03 connected to server
+
+27-03-2020 08:50:03 GET /i.aspx?d=22.25|23.00|23.50|23.75|22.50|22.25|21.00|20.50|22.75|24.25|24.25|24.50|23.00|22.25|22.25|21.75|23.50|25.00|25.25|24.50|23.75|23.25|22.50|22.25|25.00|25.75|26.00|25.00|24.50|24.25|23.50|23.50|27.75|27.25|26.00|27.25|25.25|23.00|24.50|23.25|27.00|25.00|25.25|27.25|24.50|23.25|23.50|23.25|24.50|24.25|24.25|25.50|24.25|23.25|23.25|22.75|24.25|25.00|24.25|24.25|23.50|24.50|24.25|24.00|&s=b94b43c6-07cb-402e-a4a0-9a396fa4b6fd&a=e6406124450447f3985756625ee13d HTTP/1.1
+Host: dasdata.co
+
+
+
+22.25,23.00,23.50,23.75,22.50,22.25,21.00,20.50,22.75,24.25,24.25,24.50,23.00,22.25,22.25,21.75,23.50,25.00,25.25,24.50,23.75,23.25,22.50,22.25,25.00,25.75,26.00,25.00,24.50,24.25,23.50,23.50,27.75,27.25,26.00,27.25,25.25,23.00,24.50,23.25,27.00,25.00,25.25,27.25,24.50,23.25,23.50,23.25,24.50,24.25,24.25,25.50,24.25,23.25,23.25,22.75,24.25,25.00,24.25,24.25,23.50,24.50,24.25,24.00,
+
+27-03-2020 08:50:05 HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/h
+27-03-2020 08:50:05 tml; charset=utf-8
+Server: Microsoft-IIS/10.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Access-Control-Allow-Origin: *
+Date: Fri, 27 Mar 2020 07:50:02 GMT
+Content-Length: 10
+
+3765593 OkHTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Fri, 27 Mar 2020 07:50:02 GMT
+Connection: close
+Content-Length: 326
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+
+27-03-2020 08:50:06 Motion ended!
+
+27-03-2020 08:50:07 Motion detected!
+
+27-03-2020 08:50:07 
+Starting connection to server...
+
+27-03-2020 08:50:11 connected to server
+
+27-03-2020 08:50:11 GET /i.aspx?d=22.00|22.25|23.25|24.00|22.25|22.00|21.25|19.25|22.75|23.75|24.00|24.50|23.25|22.25|22.00|21.00|23.00|25.00|25.25|25.25|24.00|23.25|22.00|22.25|25.50|25.00|25.00|24.25|24.25|24.00|23.75|23.50|28.50|26.25|26.00|25.00|24.25|23.25|24.75|22.00|25.50|24.00|24.50|26.50|24.75|23.25|23.25|22.75|24.50|24.00|24.25|25.25|24.00|23.25|23.25|23.00|24.25|24.75|24.00|23.75|24.25|23.75|24.25|24.00|&s=b94b43c6-07cb-402e-a4a0-9a396fa4b6fd&a=e6406124450447f3985756625ee13d HTTP/1.1
+Host: dasdata.co
+
+
+
+22.00,22.25,23.25,24.00,22.25,22.00,21.25,19.25,22.75,23.75,24.00,24.50,23.25,22.25,22.00,21.00,23.00,25.00,25.25,25.25,24.00,23.25,22.00,22.25,25.50,25.00,25.00,24.25,24.25,24.00,23.75,23.50,28.50,26.25,26.00,25.00,24.25,23.25,24.75,22.00,25.50,24.00,24.50,26.50,24.75,23.25,23.25,22.75,24.50,24.00,24.25,25.25,24.00,23.25,23.25,23.00,24.25,24.75,24.00,23.75,24.25,23.75,24.25,24.00,
+
+27-03-2020 08:50:12 HTTP/1.1 2
+27-03-2020 08:50:12 00 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/10.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Access-Control-Allow-Origin: *
+Date: Fri, 27 Mar 2020 07:50:09 GMT
+Content-Length: 10
+
+3765594 OkHTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Fri, 27 Mar 2020 07:50:09 GMT
+Connection: close
+Content-Length: 326
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; char
+27-03-2020 08:50:12 set=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+
+27-03-2020 08:50:14 Motion ended!
+
+27-03-2020 08:50:15 Motion detected!
+
+27-03-2020 08:50:15 
+Starting connection to server...
+
+27-03-2020 08:50:19 connected to server
+
+27-03-2020 08:50:19 GET /i.aspx?d=22.50|23.00|22.75|23.75|22.25|21.50|20.50|19.50|22.50|23.75|24.00|24.50|23.00|22.25|22.50|21.25|23.25|24.75|25.00|25.25|24.25|23.00|22.25|22.50|26.00|25.50|25.50|24.50|24.50|24.25|23.75|23.50|28.00|26.50|25.75|25.25|24.50|23.25|24.50|23.25|25.50|24.50|24.75|25.50|25.75|23.25|23.00|23.00|23.50|23.75|23.75|24.00|23.75|23.50|23.00|23.25|24.25|24.25|24.25|24.00|24.00|23.75|23.75|23.75|&s=b94b43c6-07cb-402e-a4a0-9a396fa4b6fd&a=e6406124450447f3985756625ee13d HTTP/1.1
+Host: dasdata.co
+
+
+
+22.50,23.00,22.75,23.75,22.25,21.50,20.50,19.50,22.50,23.75,24.00,24.50,23.00,22.25,22.50,21.25,23.25,24.75,25.00,25.25,24.25,23.00,22.25,22.50,26.00,25.50,25.50,24.50,24.50,24.25,23.75,23.50,28.00,26.50,25.75,25.25,24.50,23.25,24.50,23.25,25.50,24.50,24.75,25.50,25.75,23.25,23.00,23.00,23.50,23.75,23.75,24.00,23.75,23.50,23.00,23.25,24.25,24.25,24.25,24.00,24.00,23.75,23.75,23.75,
+
+27-03-2020 08:50:20 HTTP
+27-03-2020 08:50:20 /1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/10.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Access-Control-Allow-Origin: *
+Date: Fri, 27 Mar 2020 07:50:17 GMT
+Content-Length: 10
+
+3765595 OkHTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Fri, 27 Mar 2020 07:50:17 GMT
+Connection: close
+Content-Length: 326
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/stri
+27-03-2020 08:50:20 ct.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+
+27-03-2020 08:50:21 Motion ended!
+
+27-03-2020 08:50:42 Motion detected!
+
+27-03-2020 08:50:42 
+Starting connection to server...
+
+27-03-2020 08:50:45 connected to server
+
+27-03-2020 08:50:46 GET /i.aspx?d=21.75|22.50|22.25|22.50|22.25|21.25|20.75|20.75|22.25|23.25|24.00|24.00|23.00|22.50|22.25|21.75|23.50|24.75|24.75|24.50|24.25|22.75|22.00|22.00|26.00|25.00|25.00|24.75|24.50|23.75|24.00|23.50|27.75|26.25|25.75|25.00|23.75|23.25|24.25|22.75|24.50|24.25|25.00|27.00|24.00|22.75|23.25|23.00|24.25|24.25|26.00|27.25|24.25|23.50|23.00|23.00|24.50|24.75|24.75|24.50|24.25|24.25|24.25|24.00|&s=b94b43c6-07cb-402e-a4a0-9a396fa4b6fd&a=e6406124450447f3985756625ee13d HTTP/1.1
+Host: dasdata.co
+
+
+
+21.75,22.50,22.25,22.50,22.25,21.25,20.75,20.75,22.25,23.25,24.00,24.00,23.00,22.50,22.25,21.75,23.50,24.75,24.75,24.50,24.25,22.75,22.00,22.00,26.00,25.00,25.00,24.75,24.50,23.75,24.00,23.50,27.75,26.25,25.75,25.00,23.75,23.25,24.25,22.75,24.50,24.25,25.00,27.00,24.00,22.75,23.25,23.00,24.25,24.25,26.00,27.25,24.25,23.50,23.00,23.00,24.50,24.75,24.75,24.50,24.25,24.25,24.25,24.00,
+
+27-03-2020 08:50:47 HTT
+27-03-2020 08:50:47 P/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/10.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Access-Control-Allow-Origin: *
+Date: Fri, 27 Mar 2020 07:50:44 GMT
+Content-Length: 10
+
+3765596 OkHTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Fri, 27 Mar 2020 07:50:44 GMT
+Connection: close
+Content-Length: 326
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Erro
+27-03-2020 08:50:47 r 400. The request verb is invalid.</p>
+</BODY></HTML>
+Motion ended!
+
+27-03-2020 08:50:54 Motion detected!
+
+27-03-2020 08:50:54 
+Starting connection to server...
+
+27-03-2020 08:50:58 connected to server
+
+27-03-2020 08:50:58 GET /i.aspx?d=22.00|22.25|22.00|22.50|21.25|21.75|20.50|20.25|22.00|23.75|24.00|23.50|22.75|22.25|21.75|21.50|22.25|24.75|24.50|24.25|23.50|22.50|22.25|21.75|25.00|25.00|25.00|24.25|24.00|24.00|23.75|24.00|28.00|26.25|25.75|24.25|24.75|24.00|24.25|22.50|27.00|24.50|25.00|27.00|25.00|23.25|23.00|23.00|23.75|24.00|24.50|26.75|24.25|23.75|23.25|22.50|24.50|24.75|24.75|27.50|24.75|24.25|23.50|23.75|&s=b94b43c6-07cb-402e-a4a0-9a396fa4b6fd&a=e6406124450447f3985756625ee13d HTTP/1.1
+Host: dasdata.co
+
+
+
+22.00,22.25,22.00,22.50,21.25,21.75,20.50,20.25,22.00,23.75,24.00,23.50,22.75,22.25,21.75,21.50,22.25,24.75,24.50,24.25,23.50,22.50,22.25,21.75,25.00,25.00,25.00,24.25,24.00,24.00,23.75,24.00,28.00,26.25,25.75,24.25,24.75,24.00,24.25,22.50,27.00,24.50,25.00,27.00,25.00,23.25,23.00,23.00,23.75,24.00,24.50,26.75,24.25,23.75,23.25,22.50,24.50,24.75,24.75,27.50,24.75,24.25,23.50,23.75,
+
+27-03-2020 08:50:59 HTTP
+27-03-2020 08:50:59 /1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/10.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Access-Control-Allow-Origin: *
+Date: Fri, 27 Mar 2020 07:50:57 GMT
+Content-Length: 10
+
+3765597 OkHTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Fri, 27 Mar 2020 07:50:57 GMT
+Connection: close
+Content-Length: 326
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+
+27-03-2020 08:51:00 Motion ended!
+
+27-03-2020 08:51:01 Motion detected!
+
+27-03-2020 08:51:01 
+Starting connection to server...
+
+27-03-2020 08:51:05 connected to server
+
+27-03-2020 08:51:05 GET /i.aspx?d=22.25|22.25|22.50|23.25|21.75|21.50|20.75|19.50|22.75|23.75|24.75|24.00|23.00|22.25|22.25|21.00|23.25|25.00|25.50|25.00|23.50|22.75|22.00|22.50|25.25|25.25|25.50|25.00|24.50|24.25|23.50|23.50|27.00|27.50|26.25|26.00|26.25|22.75|24.25|22.75|26.75|25.00|25.25|27.00|27.00|23.50|23.00|22.50|24.25|23.75|24.25|24.25|24.00|23.25|22.75|22.50|24.00|24.75|23.75|23.75|24.00|23.75|23.75|23.00|&s=b94b43c6-07cb-402e-a4a0-9a396fa4b6fd&a=e6406124450447f3985756625ee13d HTTP/1.1
+Host: dasdata.co
+
+
+
+22.25,22.25,22.50,23.25,21.75,21.50,20.75,19.50,22.75,23.75,24.75,24.00,23.00,22.25,22.25,21.00,23.25,25.00,25.50,25.00,23.50,22.75,22.00,22.50,25.25,25.25,25.50,25.00,24.50,24.25,23.50,23.50,27.00,27.50,26.25,26.00,26.25,22.75,24.25,22.75,26.75,25.00,25.25,27.00,27.00,23.50,23.00,22.50,24.25,23.75,24.25,24.25,24.00,23.25,22.75,22.50,24.00,24.75,23.75,23.75,24.00,23.75,23.75,23.00,
+
+27-03-2020 08:51:06 HTTP/1.1 2
+27-03-2020 08:51:06 00 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/10.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Access-Control-Allow-Origin: *
+Date: Fri, 27 Mar 2020 07:51:03 GMT
+Content-Length: 10
+
+3765598 OkHTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Fri, 27 Mar 2020 07:51:03 GMT
+Connection: close
+Content-Length: 326
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY
+27-03-2020 08:51:06 ><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+
+27-03-2020 08:51:07 Motion ended!
+
+27-03-2020 08:51:11 Motion detected!
+
+27-03-2020 08:51:11 
+Starting connection to server...
+
+27-03-2020 08:51:14 connected to server
+
+27-03-2020 08:51:14 GET /i.aspx?d=21.75|23.00|23.25|23.50|22.50|22.00|21.00|20.25|22.75|24.00|24.75|24.75|23.50|22.50|22.50|21.25|23.00|25.00|25.75|24.50|24.00|23.25|22.25|22.50|24.25|25.75|25.50|25.75|25.75|24.50|23.75|23.50|27.25|27.25|26.75|26.25|26.00|23.25|24.50|22.50|28.00|26.50|26.00|26.75|24.50|23.50|23.25|23.00|25.50|24.50|24.75|25.25|24.25|23.50|23.00|22.25|25.00|25.25|24.00|24.00|24.25|23.50|23.75|24.00|&s=b94b43c6-07cb-402e-a4a0-9a396fa4b6fd&a=e6406124450447f3985756625ee13d HTTP/1.1
+Host: dasdata.co
+
+
+
+21.75,23.00,23.25,23.50,22.50,22.00,21.00,20.25,22.75,24.00,24.75,24.75,23.50,22.50,22.50,21.25,23.00,25.00,25.75,24.50,24.00,23.25,22.25,22.50,24.25,25.75,25.50,25.75,25.75,24.50,23.75,23.50,27.25,27.25,26.75,26.25,26.00,23.25,24.50,22.50,28.00,26.50,26.00,26.75,24.50,23.50,23.25,23.00,25.50,24.50,24.75,25.25,24.25,23.50,23.00,22.25,25.00,25.25,24.00,24.00,24.25,23.50,23.75,24.00,
+
+27-03-2020 08:51:16 HTTP
+27-03-2020 08:51:16 /1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/10.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Access-Control-Allow-Origin: *
+Date: Fri, 27 Mar 2020 07:51:12 GMT
+Content-Length: 10
+
+3765599 Ok
+27-03-2020 08:51:16 HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Fri, 27 Mar 2020 07:51:12 GMT
+Connection: close
+Content-Length: 326
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</T
+27-03-2020 08:51:16 ITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+
+27-03-2020 08:51:16 Motion ended!
+
+27-03-2020 08:51:19 Motion detected!
+
+27-03-2020 08:51:19 
+Starting connection to server...
+
+27-03-2020 08:51:23 connected to server
+
+27-03-2020 08:51:23 GET /i.aspx?d=22.00|23.00|22.75|23.00|21.75|21.75|20.50|20.00|22.50|23.50|24.25|24.75|22.75|22.50|22.50|21.50|23.50|25.50|25.25|25.25|23.50|23.25|22.75|22.00|25.25|25.50|25.50|24.50|24.00|24.25|24.00|23.25|27.50|28.50|26.75|25.50|27.00|25.25|25.00|23.00|28.50|25.75|25.50|26.50|25.75|24.50|23.25|23.00|24.75|24.50|25.25|28.25|26.75|24.00|23.50|23.50|24.00|24.50|24.50|25.00|24.75|24.50|23.75|23.75|&s=b94b43c6-07cb-402e-a4a0-9a396fa4b6fd&a=e6406124450447f3985756625ee13d HTTP/1.1
+Host: dasdata.co
+
+
+
+22.00,23.00,22.75,23.00,21.75,21.75,20.50,20.00,22.50,23.50,24.25,24.75,22.75,22.50,22.50,21.50,23.50,25.50,25.25,25.25,23.50,23.25,22.75,22.00,25.25,25.50,25.50,24.50,24.00,24.25,24.00,23.25,27.50,28.50,26.75,25.50,27.00,25.25,25.00,23.00,28.50,25.75,25.50,26.50,25.75,24.50,23.25,23.00,24.75,24.50,25.25,28.25,26.75,24.00,23.50,23.50,24.00,24.50,24.50,25.00,24.75,24.50,23.75,23.75,
+
+27-03-2020 08:51:25 HTTP/1.1
+27-03-2020 08:51:25  200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/10.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Access-Control-Allow-Origin: *
+Date: Fri, 27 Mar 2020 07:51:21 GMT
+Content-Length: 10
+
+3765600 OkHTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Fri, 27 Mar 2020 07:51:21 GMT
+Connection: close
+Content-Length: 326
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META
+27-03-2020 08:51:25  HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+Motion ended!
+
+27-03-2020 08:51:28 Motion detected!
+
+27-03-2020 08:51:28 
+Starting connection to server...
+
+27-03-2020 08:51:31 connected to server
+
+27-03-2020 08:51:31 GET /i.aspx?d=21.25|22.25|22.00|22.50|21.75|21.50|20.00|20.00|22.00|22.75|23.25|22.75|22.75|21.75|22.00|21.00|22.50|24.00|24.25|24.50|24.25|23.00|22.00|21.50|23.50|25.00|25.00|24.75|24.00|24.00|23.75|23.75|25.75|26.00|25.00|25.00|24.25|24.00|25.00|23.00|27.75|27.00|25.00|25.00|24.25|23.00|23.50|23.25|26.50|25.00|24.00|24.75|24.50|23.25|22.75|22.75|24.50|24.75|24.00|24.25|24.00|24.25|23.75|24.25|&s=b94b43c6-07cb-402e-a4a0-9a396fa4b6fd&a=e6406124450447f3985756625ee13d HTTP/1.1
+Host: dasdata.co
+
+
+
+21.25,22.25,22.00,22.50,21.75,21.50,20.00,20.00,22.00,22.75,23.25,22.75,22.75,21.75,22.00,21.00,22.50,24.00,24.25,24.50,24.25,23.00,22.00,21.50,23.50,25.00,25.00,24.75,24.00,24.00,23.75,23.75,25.75,26.00,25.00,25.00,24.25,24.00,25.00,23.00,27.75,27.00,25.00,25.00,24.25,23.00,23.50,23.25,26.50,25.00,24.00,24.75,24.50,23.25,22.75,22.75,24.50,24.75,24.00,24.25,24.00,24.25,23.75,24.25,
+
+27-03-2020 08:51:33 HTTP/
+27-03-2020 08:51:33 1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/10.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Access-Control-Allow-Origin: *
+Date: Fri, 27 Mar 2020 07:51:30 GMT
+Content-Length: 10
+
+3765601 OkHTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Fri, 27 Mar 2020 07:51:30 GMT
+Connection: close
+Content-Length: 326
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+
+27-03-2020 08:51:33 Motion ended!
+
+27-03-2020 08:51:35 Motion detected!
+
+27-03-2020 08:51:35 
+Starting connection to server...
+
+27-03-2020 08:51:39 connected to server
+
+27-03-2020 08:51:39 GET /i.aspx?d=22.50|23.00|22.75|23.00|21.50|22.25|20.25|20.00|22.75|24.00|24.25|24.25|23.00|22.25|22.25|21.00|23.75|25.50|25.50|24.75|24.00|24.25|22.50|22.00|27.50|25.75|25.75|24.75|24.25|23.00|22.25|22.75|27.50|25.75|25.50|25.25|25.50|24.50|23.00|22.50|25.00|24.00|25.00|26.50|26.50|25.50|24.00|23.00|23.50|23.75|24.50|25.75|23.75|24.75|23.75|23.25|23.75|24.50|24.50|25.50|24.50|24.00|24.00|23.50|&s=b94b43c6-07cb-402e-a4a0-9a396fa4b6fd&a=e6406124450447f3985756625ee13d HTTP/1.1
+Host: dasdata.co
+
+
+
+22.50,23.00,22.75,23.00,21.50,22.25,20.25,20.00,22.75,24.00,24.25,24.25,23.00,22.25,22.25,21.00,23.75,25.50,25.50,24.75,24.00,24.25,22.50,22.00,27.50,25.75,25.75,24.75,24.25,23.00,22.25,22.75,27.50,25.75,25.50,25.25,25.50,24.50,23.00,22.50,25.00,24.00,25.00,26.50,26.50,25.50,24.00,23.00,23.50,23.75,24.50,25.75,23.75,24.75,23.75,23.25,23.75,24.50,24.50,25.50,24.50,24.00,24.00,23.50,
+
+27-03-2020 08:51:40 HTT
+27-03-2020 08:51:40 P/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/10.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Access-Control-Allow-Origin: *
+Date: Fri, 27 Mar 2020 07:51:37 GMT
+Content-Length: 10
+
+3765602 OkHTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Fri, 27 Mar 2020 07:51:37 GMT
+Connection: close
+Content-Length: 326
+
+
+27-03-2020 08:51:40 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+
+27-03-2020 08:51:41 Motion ended!
+
+27-03-2020 08:51:44 Motion detected!
+
+27-03-2020 08:51:44 
+Starting connection to server...
+
+27-03-2020 08:51:47 connected to server
+
+27-03-2020 08:51:47 GET /i.aspx?d=21.75|22.50|22.00|21.75|21.50|21.50|20.25|19.25|22.00|22.75|23.25|23.00|22.25|22.25|22.25|20.75|22.50|24.00|24.25|24.50|23.00|23.75|22.00|21.75|24.00|24.75|24.75|24.75|24.25|23.00|22.75|22.25|24.50|25.25|25.25|25.00|24.50|23.50|22.75|22.50|27.75|25.25|25.25|25.25|25.00|25.50|23.75|23.00|28.25|25.25|26.00|26.75|26.00|25.25|24.00|23.00|25.00|25.25|26.00|27.75|25.25|24.75|24.25|24.25|&s=b94b43c6-07cb-402e-a4a0-9a396fa4b6fd&a=e6406124450447f3985756625ee13d HTTP/1.1
+Host: dasdata.co
+
+
+
+21.75,22.50,22.00,21.75,21.50,21.50,20.25,19.25,22.00,22.75,23.25,23.00,22.25,22.25,22.25,20.75,22.50,24.00,24.25,24.50,23.00,23.75,22.00,21.75,24.00,24.75,24.75,24.75,24.25,23.00,22.75,22.25,24.50,25.25,25.25,25.00,24.50,23.50,22.75,22.50,27.75,25.25,25.25,25.25,25.00,25.50,23.75,23.00,28.25,25.25,26.00,26.75,26.00,25.25,24.00,23.00,25.00,25.25,26.00,27.75,25.25,24.75,24.25,24.25,
+
+27-03-2020 08:51:49 HTTP
+27-03-2020 08:51:49 /1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/10.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Access-Control-Allow-Origin: *
+Date: Fri, 27 Mar 2020 07:51:45 GMT
+Content-Length: 10
+
+3765603 OkHTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Fri, 27 Mar 2020 07:51:45 GMT
+Connection: close
+Content-Length: 326
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2
+27-03-2020 08:51:49 >Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+
+27-03-2020 08:51:49 Motion ended!
+
+27-03-2020 08:51:50 Motion detected!
+
+27-03-2020 08:51:50 
+Starting connection to server...
+
+27-03-2020 08:51:53 connected to server
+
+27-03-2020 08:51:53 GET /i.aspx?d=21.75|22.25|22.00|21.75|21.00|21.25|20.50|19.25|22.00|22.50|22.75|22.50|21.50|21.50|21.50|20.75|23.00|24.25|24.50|23.75|23.00|22.75|22.00|21.75|24.25|25.00|24.75|24.00|24.00|23.25|23.00|22.50|24.25|25.25|25.00|24.75|24.00|23.50|23.00|22.25|25.75|25.00|24.75|25.25|25.25|24.25|22.75|22.75|27.25|25.00|25.00|26.00|25.50|25.00|23.00|23.25|26.00|25.50|25.75|25.25|25.25|24.50|24.25|23.75|&s=b94b43c6-07cb-402e-a4a0-9a396fa4b6fd&a=e6406124450447f3985756625ee13d HTTP/1.1
+Host: dasdata.co
+
+
+
+21.75,22.25,22.00,21.75,21.00,21.25,20.50,19.25,22.00,22.50,22.75,22.50,21.50,21.50,21.50,20.75,23.00,24.25,24.50,23.75,23.00,22.75,22.00,21.75,24.25,25.00,24.75,24.00,24.00,23.25,23.00,22.50,24.25,25.25,25.00,24.75,24.00,23.50,23.00,22.25,25.75,25.00,24.75,25.25,25.25,24.25,22.75,22.75,27.25,25.00,25.00,26.00,25.50,25.00,23.00,23.25,26.00,25.50,25.75,25.25,25.25,24.50,24.25,23.75,
+
+27-03-2020 08:51:55 HTTP/1.1 200 
+27-03-2020 08:51:55 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/10.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Access-Control-Allow-Origin: *
+Date: Fri, 27 Mar 2020 07:51:51 GMT
+Content-Length: 10
+
+3765604 OkHTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Fri, 27 Mar 2020 07:51:51 GMT
+Connection: close
+Content-Length: 326
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid
+27-03-2020 08:51:55  Verb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+Motion ended!
+
+27-03-2020 08:51:57 Motion detected!
+
+27-03-2020 08:51:58 
+Starting connection to server...
+
+27-03-2020 08:52:01 connected to server
+
+27-03-2020 08:52:01 GET /i.aspx?d=21.25|21.75|21.75|22.00|21.50|21.25|20.25|19.25|22.25|22.25|22.50|22.50|21.50|21.00|21.50|20.50|22.50|23.50|24.00|23.50|22.50|22.75|22.25|21.00|24.25|24.25|24.75|24.25|23.75|22.75|22.75|22.00|24.75|24.75|25.25|24.50|24.00|24.00|23.00|22.25|25.50|25.75|25.50|25.25|24.50|23.75|23.25|22.75|28.50|25.50|25.25|25.00|25.00|25.00|23.25|23.25|26.50|25.50|26.00|25.50|25.50|25.00|24.25|24.25|&s=b94b43c6-07cb-402e-a4a0-9a396fa4b6fd&a=e6406124450447f3985756625ee13d HTTP/1.1
+Host: dasdata.co
+
+
+
+21.25,21.75,21.75,22.00,21.50,21.25,20.25,19.25,22.25,22.25,22.50,22.50,21.50,21.00,21.50,20.50,22.50,23.50,24.00,23.50,22.50,22.75,22.25,21.00,24.25,24.25,24.75,24.25,23.75,22.75,22.75,22.00,24.75,24.75,25.25,24.50,24.00,24.00,23.00,22.25,25.50,25.75,25.50,25.25,24.50,23.75,23.25,22.75,28.50,25.50,25.25,25.00,25.00,25.00,23.25,23.25,26.50,25.50,26.00,25.50,25.50,25.00,24.25,24.25,
+
+27-03-2020 08:52:03 HTTP/1.1 200 OK
+C
+27-03-2020 08:52:03 ache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/10.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Access-Control-Allow-Origin: *
+Date: Fri, 27 Mar 2020 07:52:00 GMT
+Content-Length: 10
+
+3765605 OkHTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Fri, 27 Mar 2020 07:52:00 GMT
+Connection: close
+Content-Length: 326
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The r
+27-03-2020 08:52:03 equest verb is invalid.</p>
+</BODY></HTML>
+
+27-03-2020 08:52:04 Motion ended!
+
+27-03-2020 08:52:10 Motion detected!
+
+27-03-2020 08:52:10 
+Starting connection to server...
+
+27-03-2020 08:52:14 connected to server
+
+27-03-2020 08:52:14 GET /i.aspx?d=22.25|22.25|21.50|21.50|20.75|21.00|20.50|19.00|21.75|22.75|22.50|22.75|21.25|21.00|21.00|20.50|23.25|24.00|24.50|24.50|22.50|22.75|22.00|21.25|24.25|24.50|24.75|24.75|24.00|23.00|23.00|22.50|25.00|25.50|26.00|24.50|24.25|23.25|23.00|22.00|25.50|24.50|24.25|25.25|24.50|23.75|22.75|22.50|26.75|25.25|25.50|25.50|25.25|24.75|23.50|23.00|26.50|26.25|26.50|26.00|25.75|24.75|24.25|23.50|&s=b94b43c6-07cb-402e-a4a0-9a396fa4b6fd&a=e6406124450447f3985756625ee13d HTTP/1.1
+Host: dasdata.co
+
+
+
+22.25,22.25,21.50,21.50,20.75,21.00,20.50,19.00,21.75,22.75,22.50,22.75,21.25,21.00,21.00,20.50,23.25,24.00,24.50,24.50,22.50,22.75,22.00,21.25,24.25,24.50,24.75,24.75,24.00,23.00,23.00,22.50,25.00,25.50,26.00,24.50,24.25,23.25,23.00,22.00,25.50,24.50,24.25,25.25,24.50,23.75,22.75,22.50,26.75,25.25,25.50,25.50,25.25,24.75,23.50,23.00,26.50,26.25,26.50,26.00,25.75,24.75,24.25,23.50,
+
+27-03-2020 08:52:15 HTTP/1
+27-03-2020 08:52:15 .1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/10.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Access-Control-Allow-Origin: *
+Date: Fri, 27 Mar 2020 07:52:12 GMT
+Content-Length: 10
+
+3765606 Ok
+27-03-2020 08:52:15 HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Fri, 27 Mar 2020 07:52:12 GMT
+Connection: close
+Content-Length: 326
+
+<!DOCTYPE HTML PUBLIC
+27-03-2020 08:52:16  "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid Ve
+27-03-2020 08:52:16 rb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+
+27-03-2020 08:52:18 Motion ended!
+
+27-03-2020 08:52:18 Motion detected!
+
+27-03-2020 08:52:18 
+Starting connection to server...
+
+27-03-2020 08:52:22 connected to server
+
+27-03-2020 08:52:22 GET /i.aspx?d=22.00|22.00|21.75|22.00|21.00|20.75|20.50|19.75|21.75|22.25|22.75|22.50|21.50|21.25|21.50|19.75|22.50|23.75|24.75|24.00|22.75|22.75|22.00|21.25|24.50|24.75|25.50|24.75|23.25|23.25|23.00|22.50|24.75|25.25|25.50|24.75|24.25|23.00|23.00|22.00|26.00|25.25|26.00|25.25|24.75|24.00|23.00|23.00|28.50|26.00|25.25|25.50|25.50|25.25|23.25|22.75|26.75|25.75|26.00|25.75|26.25|25.00|24.25|23.50|&s=b94b43c6-07cb-402e-a4a0-9a396fa4b6fd&a=e6406124450447f3985756625ee13d HTTP/1.1
+Host: dasdata.co
+
+
+
+22.00,22.00,21.75,22.00,21.00,20.75,20.50,19.75,21.75,22.25,22.75,22.50,21.50,21.25,21.50,19.75,22.50,23.75,24.75,24.00,22.75,22.75,22.00,21.25,24.50,24.75,25.50,24.75,23.25,23.25,23.00,22.50,24.75,25.25,25.50,24.75,24.25,23.00,23.00,22.00,26.00,25.25,26.00,25.25,24.75,24.00,23.00,23.00,28.50,26.00,25.25,25.50,25.50,25.25,23.25,22.75,26.75,25.75,26.00,25.75,26.25,25.00,24.25,23.50,
+
+27-03-2020 08:52:23 HTTP/1
+27-03-2020 08:52:23 .1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/10.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Access-Control-Allow-Origin: *
+Date: Fri, 27 Mar 2020 07:52:21 GMT
+Content-Length: 10
+
+3765607 OkHTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Fri, 27 Mar 2020 07:52:21 GMT
+Connection: close
+Content-Length: 326
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+
+27-03-2020 08:52:25 Motion ended!
+
+27-03-2020 08:52:25 Motion detected!
+
+27-03-2020 08:52:26 
+Starting connection to server...
+
+27-03-2020 08:52:29 connected to server
+
+27-03-2020 08:52:29 GET /i.aspx?d=21.25|22.00|21.50|21.75|20.75|20.75|20.25|19.50|21.75|22.50|23.00|22.75|21.00|21.75|21.25|20.75|22.75|24.25|24.50|24.75|22.75|23.25|21.75|21.50|24.50|25.25|24.50|24.25|23.50|23.00|23.00|22.25|25.00|24.75|24.50|24.25|24.25|22.50|23.75|22.00|25.75|24.75|24.50|25.00|25.00|24.25|23.00|22.75|28.00|27.00|26.75|26.25|25.75|25.00|23.75|23.00|27.00|28.00|28.75|27.25|26.25|25.00|25.25|24.75|&s=b94b43c6-07cb-402e-a4a0-9a396fa4b6fd&a=e6406124450447f3985756625ee13d HTTP/1.1
+Host: dasdata.co
+
+
+
+21.25,22.00,21.50,21.75,20.75,20.75,20.25,19.50,21.75,22.50,23.00,22.75,21.00,21.75,21.25,20.75,22.75,24.25,24.50,24.75,22.75,23.25,21.75,21.50,24.50,25.25,24.50,24.25,23.50,23.00,23.00,22.25,25.00,24.75,24.50,24.25,24.25,22.50,23.75,22.00,25.75,24.75,24.50,25.00,25.00,24.25,23.00,22.75,28.00,27.00,26.75,26.25,25.75,25.00,23.75,23.00,27.00,28.00,28.75,27.25,26.25,25.00,25.25,24.75,
+
+27-03-2020 08:52:31 HTTP/1.1 200 OK
+Cache-Control:
+27-03-2020 08:52:31  private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/10.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Access-Control-Allow-Origin: *
+Date: Fri, 27 Mar 2020 07:52:27 GMT
+Content-Length: 10
+
+3765608 OkHTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Fri, 27 Mar 2020 07:52:27 GMT
+Connection: close
+Content-Length: 326
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+
+27-03-2020 08:52:32 Motion ended!
+
+27-03-2020 08:52:33 Motion detected!
+
+27-03-2020 08:52:33 
+Starting connection to server...
+
+27-03-2020 08:52:36 connected to server
+
+27-03-2020 08:52:36 GET /i.aspx?d=22.00|22.50|22.25|23.50|21.50|21.00|20.25|19.75|22.50|23.75|24.50|24.75|23.00|22.50|22.25|21.00|24.50|25.50|25.25|24.25|23.75|23.25|22.50|22.25|27.25|25.50|25.75|25.25|24.00|23.50|23.00|22.25|27.50|26.50|26.25|27.50|26.25|25.75|25.00|22.25|25.00|25.75|24.75|27.00|26.75|26.50|24.25|23.75|24.50|24.25|27.50|25.75|25.25|25.50|23.50|23.25|23.75|25.00|24.75|24.50|25.50|25.25|24.00|23.75|&s=b94b43c6-07cb-402e-a4a0-9a396fa4b6fd&a=e6406124450447f3985756625ee13d HTTP/1.1
+Host: dasdata.co
+
+
+
+22.00,22.50,22.25,23.50,21.50,21.00,20.25,19.75,22.50,23.75,24.50,24.75,23.00,22.50,22.25,21.00,24.50,25.50,25.25,24.25,23.75,23.25,22.50,22.25,27.25,25.50,25.75,25.25,24.00,23.50,23.00,22.25,27.50,26.50,26.25,27.50,26.25,25.75,25.00,22.25,25.00,25.75,24.75,27.00,26.75,26.50,24.25,23.75,24.50,24.25,27.50,25.75,25.25,25.50,23.50,23.25,23.75,25.00,24.75,24.50,25.50,25.25,24.00,23.75,
+
+27-03-2020 08:52:38 HTT
+27-03-2020 08:52:38 P/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/10.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Access-Control-Allow-Origin: *
+Date: Fri, 27 Mar 2020 07:52:35 GMT
+Content-Length: 10
+
+3765609 OkHTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Fri, 27 Mar 2020 07:52:35 GMT
+Connection: close
+Content-Length: 326
+
+<!
+27-03-2020 08:52:38 DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+
+27-03-2020 08:52:39 Motion ended!
+
+27-03-2020 08:52:39 Motion detected!
+
+27-03-2020 08:52:39 
+Starting connection to server...
+
+27-03-2020 08:52:43 connected to server
+
+27-03-2020 08:52:43 GET /i.aspx?d=22.50|22.50|21.50|22.75|22.00|21.75|20.75|20.50|22.50|23.00|23.50|23.25|22.50|23.00|22.50|22.00|23.25|24.50|24.50|24.50|24.00|23.50|22.25|22.75|24.50|24.25|24.75|24.50|24.25|24.25|22.75|23.00|24.75|25.00|25.50|24.75|24.75|24.75|24.25|22.75|26.00|25.00|25.50|25.25|25.50|26.25|24.25|23.25|26.50|25.50|25.25|24.75|25.25|25.50|23.50|23.50|25.25|25.50|25.25|25.75|26.00|25.50|24.25|24.50|&s=b94b43c6-07cb-402e-a4a0-9a396fa4b6fd&a=e6406124450447f3985756625ee13d HTTP/1.1
+Host: dasdata.co
+
+
+
+22.50,22.50,21.50,22.75,22.00,21.75,20.75,20.50,22.50,23.00,23.50,23.25,22.50,23.00,22.50,22.00,23.25,24.50,24.50,24.50,24.00,23.50,22.25,22.75,24.50,24.25,24.75,24.50,24.25,24.25,22.75,23.00,24.75,25.00,25.50,24.75,24.75,24.75,24.25,22.75,26.00,25.00,25.50,25.25,25.50,26.25,24.25,23.25,26.50,25.50,25.25,24.75,25.25,25.50,23.50,23.50,25.25,25.50,25.25,25.75,26.00,25.50,24.25,24.50,
+
+27-03-2020 08:52:44 HTTP
+27-03-2020 08:52:44 /1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/10.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Access-Control-Allow-Origin: *
+Date: Fri, 27 Mar 2020 07:52:41 GMT
+Content-Length: 10
+
+3765610 OkHTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Fri, 27 Mar 2020 07:52:41 GMT
+Connection: close
+Content-Length: 326
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Conten
+27-03-2020 08:52:44 t="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+
+27-03-2020 08:52:46 Motion ended!
+
+27-03-2020 08:52:46 Motion detected!
+
+27-03-2020 08:52:47 
+Starting connection to server...
+
+27-03-2020 08:52:50 connected to server
+
+27-03-2020 08:52:50 GET /i.aspx?d=27.25|27.75|27.25|27.75|23.00|22.50|21.25|20.75|27.25|27.50|27.50|27.75|26.50|24.50|23.25|22.50|28.25|28.25|28.25|28.00|27.75|28.00|24.25|23.50|28.50|28.50|27.75|28.25|27.75|27.75|25.50|24.25|28.25|28.50|28.25|28.25|27.75|27.75|27.00|25.00|29.25|28.50|28.75|28.50|28.25|28.50|27.25|24.25|29.00|29.75|29.50|29.00|28.50|28.75|26.75|24.75|29.00|30.00|29.75|29.50|29.75|28.25|25.25|25.25|&s=b94b43c6-07cb-402e-a4a0-9a396fa4b6fd&a=e6406124450447f3985756625ee13d HTTP/1.1
+Host: dasdata.co
+
+
+
+27.25,27.75,27.25,27.75,23.00,22.50,21.25,20.75,27.25,27.50,27.50,27.75,26.50,24.50,23.25,22.50,28.25,28.25,28.25,28.00,27.75,28.00,24.25,23.50,28.50,28.50,27.75,28.25,27.75,27.75,25.50,24.25,28.25,28.50,28.25,28.25,27.75,27.75,27.00,25.00,29.25,28.50,28.75,28.50,28.25,28.50,27.25,24.25,29.00,29.75,29.50,29.00,28.50,28.75,26.75,24.75,29.00,30.00,29.75,29.50,29.75,28.25,25.25,25.25,
+
+27-03-2020 08:52:52 HTTP/
+27-03-2020 08:52:52 1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/10.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Access-Control-Allow-Origin: *
+Date: Fri, 27 Mar 2020 07:52:48 GMT
+Content-Length: 10
+
+3765611 OkHTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Fri, 27 Mar 2020 07:52:48 GMT
+Connection: close
+Content-Length: 326
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The request verb is in
+27-03-2020 08:52:52 valid.</p>
+</BODY></HTML>
+
+27-03-2020 08:52:52 Motion ended!
+
