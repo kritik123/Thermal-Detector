@@ -14,6 +14,7 @@ Thermal Camera for detecting people with high temperature
 - Buzzer
 - RGB LED
 - Junction Box
+- Rechargeable Battery 
 
 ### Basic Setup
 
